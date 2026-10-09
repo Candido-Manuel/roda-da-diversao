@@ -66,11 +66,14 @@ Two players receive a scene and words they must incorporate into their dialogue.
 
 ## Community Content and Copyright
 
-Roda da Diversão aims to give users an opportunity to share their creativity with people around the world.
+Roda da Diversão allows users to contribute their own creative content and share it with other players through future app releases.
 
-Depending on the game mode, users can contribute original questions, poems, and other creative content, helping their ideas and talents reach a wider audience.
+Users can contact the developer to submit original questions, poems, and other content suitable for the different game modes. Once reviewed and approved, the contributions can be included in a subsequent release, allowing creators to share their ideas and talents with a wider audience.
 
-The project values intellectual property and aims to respect the authorship of contributed works. Attribution and copyright arrangements should follow the rules applicable to each type of content and the mechanisms provided by the platform.
+**Authorship and intellectual property matter.** Contributors should provide original work or content they have permission to share. Where applicable, the creator's name or preferred attribution can be provided with the submission so that authorship can be recognized according to the content type and the applicable arrangements.
+
+To contribute content, contact the developer using the email address or WhatsApp number listed below.
+
 
 ## Languages
 
