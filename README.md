@@ -4,13 +4,13 @@
 
 Roda da Diversão is a mobile party game designed to bring friends and family together through quizzes, poetry, guessing games, and improvisation challenges.
 
-The app offers four game modes, player registration, and customizable game content, making it suitable for parties, social gatherings, and group activities.
+Beyond entertainment, the app aims to provide a platform where users can share their creativity, contribute original content, and potentially reach audiences around the world.
 
 ## Game Modes
 
 ### 1. Quiz
 
-Players take turns asking questions. Each player answers a question from the player on their left or right, according to the game's flow, and then continues the round by asking the next question.
+Players take turns asking questions and answering them, creating an interactive and entertaining group experience.
 
 ### 2. Poetry
 
@@ -28,54 +28,75 @@ Two players receive a scene and words they must incorporate into their dialogue.
 
 ### Player Registration
 
-![Player Registration](names.png)
+![Player Registration](https://raw.githubusercontent.com/Candido-Manuel/roda-da-diversao/main/names.png)
 
 ### Game Categories
 
-![Game Categories](categories.png)
+![Game Categories](https://raw.githubusercontent.com/Candido-Manuel/roda-da-diversao/main/categories.png)
 
 ### Quiz
 
-![Quiz Mode](quiz.png)
+![Quiz Mode](https://raw.githubusercontent.com/Candido-Manuel/roda-da-diversao/main/quiz.png)
 
 ### Poetry
 
-![Poetry Mode](poetry.png)
+![Poetry Mode](https://raw.githubusercontent.com/Candido-Manuel/roda-da-diversao/main/poetry.png)
 
 ### Who Am I?
 
-![Who Am I? Mode](who_am_i.png)
+![Who Am I? Mode](https://raw.githubusercontent.com/Candido-Manuel/roda-da-diversao/main/who_am_i.png)
 
 ### Improvisation Scene
 
-![Improvisation Scene](improvised_scene.png)
+![Improvisation Scene](https://raw.githubusercontent.com/Candido-Manuel/roda-da-diversao/main/improvised_scene.png)
 
 ### Game Resources
 
-![Game Resources](resources.png)
+![Game Resources](https://raw.githubusercontent.com/Candido-Manuel/roda-da-diversao/main/resources.png)
 
 ## Features
 
 * Four interactive game modes.
-* Player registration with name and gender.
+* Player registration using names and gender.
 * Duplicate player-name prevention.
 * Timed guessing and improvisation challenges.
-* Game content that can be expanded with additional questions, scenes, and objects.
-* Interface designed for Android devices.
+* Support for additional questions, poems, scenes, and objects, depending on the game mode.
+* Opportunities to expand the game's content through user contributions.
+* An interface designed for Android devices.
+
+## Community Content and Copyright
+
+Roda da Diversão aims to give users an opportunity to share their creativity with people around the world.
+
+Depending on the game mode, users can contribute original questions, poems, and other creative content, helping their ideas and talents reach a wider audience.
+
+The project values intellectual property and aims to respect the authorship of contributed works. Attribution and copyright arrangements should follow the rules applicable to each type of content and the mechanisms provided by the platform.
+
+## Languages
+
+The application is currently available in **Portuguese**. An English version is planned to make Roda da Diversão accessible to a broader international audience.
+
+## Advertising and Partnerships
+
+Roda da Diversão may offer opportunities for advertising, brand promotion, and partnerships with businesses and organizations.
+
+Potential opportunities include promoting products, services, brands, or relevant initiatives to the game's audience. Advertising arrangements and available formats will depend on the features implemented and future partnership agreements.
+
+Interested businesses and organizations are welcome to contact the developer to discuss potential collaborations.
 
 ## Technologies
 
 * **Python** — application logic.
-* **Kivy** — cross-platform graphical user interface.
-* **KivyMD** — Material Design components, where applicable.
+* **Kivy** — graphical user interface.
+* **KivyMD** — Material Design components, where used in the application.
 
 ## Requirements
 
 * Android 5.0 or later.
 
-## Get the App
+## Download the App
 
-Download Roda da Diversão from the Google Play Store:
+Get Roda da Diversão on Google Play:
 
 [**Download Roda da Diversão**](https://play.google.com/store/apps/details?id=com.candidomanuel.rodadadiversao)
 
@@ -86,6 +107,13 @@ Download Roda da Diversão from the Google Play Store:
 * **Version:** 0.1
 * **Initial release:** August 2026
 
+## Contact
+
+For questions, suggestions, advertising opportunities, or partnership proposals, contact the developer:
+
+* **Email:** [cmassunda37@gmail.com](mailto:cmassunda37@gmail.com)
+* **Phone / WhatsApp:** [+258 848 651 991](https://wa.me/258848651991)
+
 ## About This Repository
 
-This repository serves as a public showcase of Roda da Diversão, including its features and user interface screenshots. The application's source code is not included.
+This repository showcases Roda da Diversão, its features, and its user interface. The application's source code is not included.
